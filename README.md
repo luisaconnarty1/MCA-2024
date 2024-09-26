@@ -25,10 +25,9 @@ GENERAL CHALLENGES:
 
 'HOT TO GO!' CHALLENGES:
 
-- The cuiltural influence extends beyond traditional music metrics like sales and streaming numbers - hard to measure these data frameworks and engagements
-- There is a decentralised approach to interaction as much of the popularity is produced through User Generated Content (UGC)
-- with copyright and licensing protections in place, being a recent pop music, access to notated and acoustic data will likely cost money
-- 
+- The cuiltural influence extends beyond traditional music metrics like sales and streaming numbers - hard to measure these data frameworks and engagements, so risk of inconsistant or inaccurate descriptive data
+- There is a decentralised approach to interaction as much of the popularity is produced through User Generated Content (UGC) so Notated, acoustic and descriptive data used may not come from the direct source of the artist. 
+- with copyright and licensing protections in place, being a recently released pop song, access to notated and acoustic data will likely cost money
 
 
 
