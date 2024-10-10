@@ -25,7 +25,17 @@
 <body>
     <div class="box">
     <div class="header"><h1>Week 3</h1>
-        <p>[Insert your response to task 2 here.]</p></div>
+        <p>MUSICXML VS MEI</p></div>
+
+        <ol>
+  <li></b>NOTE ELEMENT:</b> This parent element, included in both MusicXML and MEI, includes, again in both softwares, the duration, pitch, stem directions and articulations or accidentals. This provides basic representations of an individual note of music, making it translatable. MEI however provides more detailed descriptions such as with accidentals it details if it is a visual (accid.vis) or gestural (accid.ges) accidental. Additionally including more information inside this element such as  fingerings, annotations, and apparatus, which MusicXML either does not include, or encodes, but seperately from the element of the note. These differences can affect the ease of readability for users, and alter their understanding of a piece of music. In lacking detail, the readers comprehension will be weaker. </li>
+  <li><b>MEASURE ELEMENT:</b>This element is again present in both MusicXML and MEI. This element contains all music contents that fall within one bar of music. One stark difference is that the same measure element falls across 100 lines in MEI versus 333 lines on MusicXML. I would argue MEI provides a more concise and easilt interpratable set of data, as eveything that relates to once note is neatly fixed on one line, rather than multiple with MusicXML. Withing this element however, both contain the same basic element within such as notes (and everything internal to that), breaks, and attributes. Again, in this instance, MEI provides more thorough information including (specifically in the case of my code) the detailing of beamed notes using a beam element, allowing for detailed control over the visual appearance, duration and rhythmic grouping of notes which MusicXML failed to include. </li>
+  <li><b>SCOREDEF VS PART-LIST</b>One key difference i noticed is in the metadata provided at the beginning of the sheetmusic. This is the way in which the information on the song title, composer, instrumetn etc is provided. Music XML divides this into two sections; 'The Credit' element (including title, artist, composer) and then the 'score-part' follows, providing pitch, tempo, instruments etc. MEI provides all this information in the one parent element 'scoredef'. This section can be referred to as the score header, the first group of elements containing metadata on the music; premature to the music data which contains the actual music. In this case, both softwares are providing near enough the same information, just in different presentations, in doing so, the user is attaining the same amount of information, thus comprehension of the music. However, file format can still impact things such as computer recognition and file size and performance.   </li>
+    </ol> 
+
+<p>In conclusion, MEI and MusicXML contain similarities in basic music structure elements. However, MEI provides a more comprehensive, and extensive detailing of the music. Thus, MEI provides a richer attribute set usueful for extensive research, scholars and furhter music incoding, whereas MusicXML focusses more on the digital music interchanve and notation for modern performance. </p>
+
+        
     <div id="app">Verovio is loading...</div>
     <script type="module">
         import 'https://www.verovio.org/javascript/app/verovio-app.js';
@@ -38,7 +48,7 @@
         }
         
         // A MusicXML file
-        var file = 'data/example.mei';
+        var file = 'data/hottogomei.mei';
         // A MEI file
         //var file = 'https://www.verovio.org/editor/brahms.mei';
         
