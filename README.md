@@ -1,6 +1,6 @@
 # 2557519c MUSIC CURATION AND ANALYTICS PORTFOLIO
 
-
+<br></br>
 
 # WEEK 1: BASICS OF MUSIC DATA
 
@@ -11,6 +11,8 @@ For my dataset collection I am choosing the song 'Hot To GO!' released by Chappe
 Pop music
 New Digital Age (Social media)
 Chappell Roan is a name and persona adopted by singer-songwrite Kayleigh Rose Amstutz. Roan is known for her theatrical, camp, and bold stage presence brought when performing her uniquw blend of pop, rock and indie sounds of music. My reasoning for choosing 'Hot To Go!' of all the songs on her discography is for its specific erruption of popularity online. This song was one of the first to bolster Roan's career through social media trends. The song has an accompanying dance Roan teaches her audiences in person at shows, and this dance is now deeply rooted in people's associations of the song even without attendance to the show through her music video and fans recodrings of concerts being shared online. I think it is very current in regards to the evolution of music data and will present new, or modern, manifestations of music data; exploring how the ever-progressing digital age is expanding the scope in defining music data, how it is collected, and further understood.
+
+
 
 TASK 3: CHALLENGES OF WORKING WITH MUSIC DATA
 
@@ -41,12 +43,16 @@ The original studio recording of 'Hot To Go!' is available on popular streaming 
 
 
 
+<br></br>
+
+
 # WEEK 2: TRANSCRIBING AND EDITING SHEET MUSIC
 
+Below I have provided first, the original sheet music. Followed by how MuseScore converted it (Highlighting where there were errors).  
 
-
-<img src="data/error.jpg" alt="student1" height="1000">
 <img src="data/htgoriginal.jpg" alt="student1" height="1000">
+<img src="data/error.jpg" alt="student1" height="1000">
+
 
 Errors include:
  - Missing text at top (song title, artist, music arranger)
