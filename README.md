@@ -2,7 +2,7 @@
 
 
 
-WEEK 1
+# WEEK 1: BASICS OF MUSIC DATA
 
 TASK 2: IDENTIFY A THEME FOR YOUR DATASET
 
@@ -41,7 +41,12 @@ The original studio recording of 'Hot To Go!' is available on popular streaming 
 
 
 
-WEEK 2: TRANSCRIBING AND EDITING SHEET MUSIC
+# WEEK 2: TRANSCRIBING AND EDITING SHEET MUSIC
+
+
+
+<img src="data/error.jpg" alt="student1" height="1000">
+<img src="data/htgoriginal.jpg" alt="student1" height="1000">
 
 Errors include:
  - Missing text at top (song title, artist, music arranger)
