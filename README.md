@@ -88,6 +88,30 @@ Additional impacts that may be experienced from inaccurate OMR scannings may inc
 For this weeks task we compared and analysed the difference in a MusicXML file, with an MEI file-type. My analysis and example MEI are available [here](luisaconnarty1.github.io/MCA-2024/verovio.html)
 
 
+# WEEK 4: COMPUTATIONAL ANALYTICS OF NOTATED MUSIC
+
+The features I analysed: 
+
+- RANGE: 38
+Difference in semitones between the highest and lowest pitches.
+
+  
+- MEAN PITCH: 54
+Mean MIDI pitch value, averaged across all pitched notes in the piece. Set to 0 if there are no pitched notes.
+  
+- NUMBER OF COMMON PITCH CLASSES: 2
+Number of pitch classes that account individually for at least 20% of all notes. Enharmonic equivalents are grouped together for the purpose of this calculation.
+
+
+- LAST PITCH: 80
+The MIDI pitch value of the last note in the piece. If there are multiple notes with simultaneous attacks at the end of the piece, then the one with the lowest pitch is selected. Set to 0 if there are no pitched notes.
+  
+- MOST COMMON RHYTHMIC VALUE: 0.25
+The most common rhythmic value of the music, in quarter note units. So, for example, a Most Common Rhythmic Value of 0.5 would mean that eighth notes occur more frequently than any other rhythmic value. This calculation includes both pitched and unpitched notes, is calculated after rhythmic quantization, is not influenced by tempo, and is calculated without regard to the dynamics, voice or instrument of any given note.
+
+
+
+
 # WEEK 5: STANDARDS IN CURATION
 
 This week we are investigating the importance of detailed metadata in order to understand what is contained within an MEI file. 
