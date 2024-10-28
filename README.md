@@ -90,6 +90,9 @@ For this weeks task we compared and analysed the difference in a MusicXML file, 
 
 # WEEK 5: STANDARDS IN CURATION
 
+This week we are investigating the importance of detailed metadata in order to understand what is contained within an MEI file. 
+Below is the data I feel is particularly relevant to be included. 
+
 <table>
  <tr>
  <th>Metadata Element</th>
