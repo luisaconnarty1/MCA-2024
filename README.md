@@ -90,7 +90,45 @@ For this weeks task we compared and analysed the difference in a MusicXML file, 
 
 # WEEK 5: STANDARDS IN CURATION
 
+<table>
+ <tr>
+ <th>Metadata Element</th>
+ <th>Use</th>
+ <th>Relevance of inclusion</th>
+ </tr>
 
+ <tr>
+  <td>Title</td>
+  <td>dislays the name of the chosen song.</td>
+  <td>Ensures this version is not confused with a song of the same name.</td>
+ </tr>
+
+  <tr>
+  <td>Artist</td>
+   <td>displays the name of the person performing.</td>
+   <td>Edsures the correct singer/ performer is identified.</td>
+ </tr
+
+  <tr>
+  <td>Publisher</td>
+  <td>displays the name of the person/ company that published the song.</td>
+   <td>Ensures the correct release/ version of the song is identified. Provides inisight into publication of the song/ a labels's history.</td>
+  </tr>
+
+ <tr>
+  <td>(sub)Genre</td>
+  <td>displays the genre of the song.</td>
+  <td>Ensures the tone and context of a song is understood</td>
+ </tr>
+
+  <tr>
+  <td>Album</td>
+   <td> displasy the name of the album which the song was released in.</td>
+   <td>Ensures the correct version of a song is referenced.</td>
+ </tr>
+
+ 
+</table>
 
 
 
