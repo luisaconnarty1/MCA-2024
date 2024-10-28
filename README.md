@@ -130,6 +130,12 @@ Below is a metadata schema including data I feel is particularly relevant to be 
    <td>Ensures the correct version of a song is referenced.</td>
  </tr>
 
+ <tr>
+  <td>Duration</td>
+   <td> displasy the length of the song.</td>
+   <td>Ensures the correct version of a song is referenced. Allows comparisons to different versions/ covers of the song.</td>
+ </tr>
+
  
 </table>
 
