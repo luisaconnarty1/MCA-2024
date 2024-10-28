@@ -83,6 +83,14 @@ Additional impacts that may be experienced from inaccurate OMR scannings may inc
  - Incorrect time signatures of keys, completely altering tonality and ability to perform a piece
 
 
+# WEEK 3: ENCODING BASICS FOR NOTATION
+
+For this weeks task we compared and analysed the difference in a MusicXML file, with an MEI file-type. My analysis and example MEI are available [here]([luisaconnarty1.github.io/MCA-2024/verovio.html)
+
+
+# WEEK 5: STANDARDS IN CURATION
+
+
 
 
 
