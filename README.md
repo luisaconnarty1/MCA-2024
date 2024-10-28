@@ -90,23 +90,28 @@ For this weeks task we compared and analysed the difference in a MusicXML file, 
 
 # WEEK 4: COMPUTATIONAL ANALYTICS OF NOTATED MUSIC
 
-The features I analysed: 
+The features I analysed and their jSymbolic analysis: 
 
 - RANGE: 38
+  
 Difference in semitones between the highest and lowest pitches.
 
   
 - MEAN PITCH: 54
-Mean MIDI pitch value, averaged across all pitched notes in the piece. Set to 0 if there are no pitched notes.
+  
+Mean MIDI pitch value, averaged across all pitched notes in the piece. 
   
 - NUMBER OF COMMON PITCH CLASSES: 2
+  
 Number of pitch classes that account individually for at least 20% of all notes. Enharmonic equivalents are grouped together for the purpose of this calculation.
 
 
 - LAST PITCH: 80
+  
 The MIDI pitch value of the last note in the piece. If there are multiple notes with simultaneous attacks at the end of the piece, then the one with the lowest pitch is selected. Set to 0 if there are no pitched notes.
   
 - MOST COMMON RHYTHMIC VALUE: 0.25
+  
 The most common rhythmic value of the music, in quarter note units. So, for example, a Most Common Rhythmic Value of 0.5 would mean that eighth notes occur more frequently than any other rhythmic value. This calculation includes both pitched and unpitched notes, is calculated after rhythmic quantization, is not influenced by tempo, and is calculated without regard to the dynamics, voice or instrument of any given note.
 
 
