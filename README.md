@@ -171,5 +171,12 @@ Below is a metadata schema including data I feel is particularly relevant to be 
 
 
 
+# WEEK 7: CREATIVE COMMONS LICENSING
+
+My chosen Licensing Attributtion is <b>CC BY-NC 4.0</b>
+
+
+
+
 
 
