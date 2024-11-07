@@ -179,10 +179,33 @@ Below is a metadata schema including data I feel is particularly relevant to be 
 
 # WEEK 7: CREATIVE COMMONS LICENSING
 
+<b>Part 1: Choosing a creative Commons License </b>
+
 My chosen Licensing Attributtion is <b>CC BY-NC 4.0</b>
 
+Terms of the Creative Commons LicenseL:
+1. <u>Attribution</u> - You must give appropriate credit, provide link to the license, and indicate if changes were made; ensuring not to suggest the licenser endorsed your use.
+2. <u>NonCommercial</u> - You may not use the material for commercial purposes
 
 
+This Creatie Commons lience allows you to do the following things, as long as you follow license terms
+1. <u>Share</u> - copy and redistribute the material in any medium or format
+2. <u>Adapt</u> - Remix, transform and build upon material
+
+The CC BY-NC (Creative Commons Attribution-NonCommercial) license allows creators to share their work freely as long as they are credited and it’s not used for commercial purposes. As 'Hot To Go!' recieved its popularity through its manipulation and manifestation online, this license is ideal as it encourages public sharing, or personal projects while restricting profit-driven applications. Compared to more permissive licenses like CC BY or CC BY-SA, which allow for commercial use, CC BY-NC provides greater control over how the work is monetized. Therefore, the song can be used and shared,furthering its popularity, but ensures only approrprate sources are monetizing from the source. Unlike other licenses such as the CC BY-ND, which prohibits changes, CC BY-NC continues to allow others to adapt or remix the work, fostering creative innovation as long as it remains noncommercial. This balance makes CC BY-NC a popular choice for creators aiming to support open access with non-commercial protections. These factors I think are crucial in abiding to the new digital age in which music attains and gains popularity through its online relevance, hindering the ability to allow for sharing would go against this phenomenon and potentially depleat its relevance.
 
 
+<b>Part 2: Formatting Metadata</b>
+
+Currently my Metadata is displayed in a large chunk of text at the top of my Verivo score with no punctuation, and no description of what means what. Thus, in terms of formatting, I would give the metadata subtitles such as: 
+
+Song: 'Hot To Go!'
+
+Album: The Rise and Fall of a Midwestern Princess
+
+Artist: Chappell Roan
+
+Song length: 3 minutes 4 seconds...
+
+In doing so, it would ensure the clarity of the metadata's meaning, optimizing its relevance and use. 
 
