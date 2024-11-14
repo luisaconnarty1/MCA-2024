@@ -2,7 +2,7 @@
 
 <br></br>
 
-[week1](tasks/week1.md)
+
 
 # WEEK 1: BASICS OF MUSIC DATA
 
