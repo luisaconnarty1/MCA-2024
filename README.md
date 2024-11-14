@@ -213,7 +213,7 @@ In doing so, it would ensure the clarity of the metadata's meaning, optimizing i
 
 # WEEK 8: MUSIC AS SOUND
 
-
+<b>TASK 1: FIND AND DESCRIBE 3 AUDIO TRACKS RELATING TO YOUR THEME</b>
 <table>
 <tr>
   <th>TITLE</th>
@@ -244,7 +244,7 @@ In doing so, it would ensure the clarity of the metadata's meaning, optimizing i
 </tr>  
  
 <tr>
-   <td>Pink Pony Club</td>
+   <td>Espresso</td>
    <td>Sabrina Carpenter</td>
    <td>Sabrina Carpenter, Julian Bunetta, Amy Allen & Steph Jones</td>
    <td>℗ 2024 Island Records, a division of UMG Recordings, Inc.</td>
@@ -257,6 +257,22 @@ In doing so, it would ensure the clarity of the metadata's meaning, optimizing i
    <td>2 minutes 55 seconds</td>
 </tr> 
 
+<tr>
+   <td>Pink Pony Club</td>
+   <td>Chappell Roan</td>
+   <td>Kayleigh Rose Amstutz & Daniel Nigro</td>
+   <td>Amusement Records; ℗ 2023 KRA International Inc., under exclusive license to Island Records, a division of UMG Recordings, Inc.</td>
+   <td>pop</td>
+   <td>Amazon Music</td>
+   <td>MP3</td>
+   <td>2 (stereo)</td>
+   <td>44.100 kHz</td>
+   <td>264 kbps (VBR)</td>
+   <td>4 minutes 18 seconds</td>
+</tr>  
 
- 
 </table>
+
+<b>TASK 2: PERFORM ANALYSIS OF YOUR 3 TRACKS IN SONIC VISUALISER</b>
+
+
