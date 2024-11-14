@@ -95,6 +95,8 @@ For this weeks task we compared and analysed the difference in a MusicXML file, 
 
 <b>SCOREDEF VS PART-LIST:</b> One key difference i noticed is in the metadata provided at the beginning of the sheetmusic. This is the way in which the information on the song title, composer, instrumetn etc is provided. Music XML divides this into two sections; 'The Credit' element (including title, artist, composer) and then the 'score-part' follows, providing pitch, tempo, instruments etc. MEI provides all this information in the one parent element 'scoredef'. This section can be referred to as the score header, the first group of elements containing metadata on the music; premature to the music data which contains the actual music. In this case, both softwares are providing near enough the same information, just in different presentations, in doing so, the user is attaining the same amount of information, thus comprehension of the music. However, file format can still impact things such as computer recognition and file size and performance.
 
+[HTML displaying verivo](https://luisaconnarty1.github.io/MCA-2024/verovio.html)
+
 
 # WEEK 4: COMPUTATIONAL ANALYTICS OF NOTATED MUSIC
 
