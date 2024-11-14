@@ -1,6 +1,7 @@
 # WEEK 1: BASICS OF MUSIC DATA
 
-TASK 2: IDENTIFY A THEME FOR YOUR DATASET
+
+TASK 1: IDENTIFY A THEME FOR YOUR DATASET
 
 For my dataset collection I am choosing the song 'Hot To GO!' released by Chappell Roan on the 11th August 2023, featuring on her debut studio album The Rise and Fall of a Midwest Princess (2023). Maimn Themes presented:
 
@@ -10,7 +11,7 @@ Chappell Roan is a name and persona adopted by singer-songwrite Kayleigh Rose Am
 
 
 
-TASK 3: CHALLENGES OF WORKING WITH MUSIC DATA
+TASK 2: CHALLENGES OF WORKING WITH MUSIC DATA
 
 GENERAL CHALLENGES:
 
@@ -39,4 +40,4 @@ The original studio recording of 'Hot To Go!' is available on popular streaming 
 
 
 
-<br></br>
+
