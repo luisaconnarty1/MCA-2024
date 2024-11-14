@@ -2,6 +2,8 @@
 
 <br></br>
 
+[week1](tasks/week1.md)
+
 # WEEK 1: BASICS OF MUSIC DATA
 
 TASK 2: IDENTIFY A THEME FOR YOUR DATASET
