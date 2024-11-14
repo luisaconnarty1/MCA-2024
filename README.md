@@ -286,3 +286,5 @@ Pink Pony Club Spectogram and Waveform:
 Espresso Spectogram and Waveform:
 <img src="data/espweek8.png" alt="Espresso Spectogram" height="150">
 <img src="data/espweek8.2.png" alt="Espresso Waveform" height="150">
+
+
