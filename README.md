@@ -205,7 +205,58 @@ Album: The Rise and Fall of a Midwestern Princess
 
 Artist: Chappell Roan
 
-Song length: 3 minutes 4 seconds...
+Song length: 3 minutes 4 seconds
 
 In doing so, it would ensure the clarity of the metadata's meaning, optimizing its relevance and use. 
 
+
+
+# WEEK 8: MUSIC AS SOUND
+
+
+<table>
+<tr>
+  <th>TITLE</th>
+  <th>ARTIST</th>
+  <th>COMPOSER</th>
+  <th>COPYRIGHT</th>
+  <th>GENRE</th>
+  <th>SOURCE</th>
+  <th>FILE FORMAT</th>
+  <th>N. OF CHANNELS</th>
+  <th>SAMPLE RATE</th>
+  <th>BITS PER SECOND</th>
+  <th>DURATION</th>
+</tr>
+
+<tr>
+   <td>Hot To Go!</td>
+   <td>Chappell Roan</td>
+   <td>Kayleigh Rose Amstutz & Daniel Nigro</td>
+   <td>Amusement Records; ℗ 2023 KRA International Inc., under exclusive license to Island Records, a division of UMG Recordings, Inc.</td>
+   <td>pop</td>
+   <td>Apple Music</td>
+   <td>MP3</td>
+   <td>2 (stereo)</td>
+   <td>44.100 kHz</td>
+   <td>256 kbps</td>
+   <td>3 minutes 5 seconds</td>
+</tr>  
+ 
+<tr>
+   <td>Pink Pony Club</td>
+   <td>Sabrina Carpenter</td>
+   <td>Sabrina Carpenter, Julian Bunetta, Amy Allen & Steph Jones</td>
+   <td>℗ 2024 Island Records, a division of UMG Recordings, Inc.</td>
+   <td>pop</td>
+   <td>Apple Music</td>
+   <td>MP3</td>
+   <td>2 (stereo)</td>
+   <td>44.100 kHz</td>
+   <td>256 kbps</td>
+   <td>2 minutes 55 seconds</td>
+</tr> 
+
+
+ 
+</table>
