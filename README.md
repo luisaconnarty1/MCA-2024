@@ -181,6 +181,8 @@ Below is a metadata schema including data I feel is particularly relevant to be 
 
 # WEEK 7: CREATIVE COMMONS LICENSING
 
+[Link to MEI Metadata page](https://luisaconnarty1.github.io/MCA-2024/metaRAW.html)
+
 <b>Part 1: Choosing a creative Commons License </b>
 
 My chosen Licensing Attributtion is <b>CC BY-NC 4.0</b>
