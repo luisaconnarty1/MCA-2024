@@ -276,15 +276,15 @@ In doing so, it would ensure the clarity of the metadata's meaning, optimizing i
 <b>TASK 2: PERFORM ANALYSIS OF YOUR 3 TRACKS IN SONIC VISUALISER</b>
 
 HOT TO GO! Spectogram and Waveform:
-<img src="data/htgweek8.png" alt="hot to go spectogram">
+<img src="data/htgweek8.3.png" alt="hot to go spectogram" height="150">
 <img src="data/htgweek8.2.png" alt="hot to go waveform">
 
 Pink Pony Club Spectogram and Waveform:
-<img src="data/ppcweek8.png" alt="Pink Pony Club spectogram" height="150">
+<img src="data/ppcweek8.3.png" alt="Pink Pony Club spectogram" height="150">
 <img src="data/ppcweek8.2.png" alt="Pink Pony Club Waveform" height="150">
 
 Espresso Spectogram and Waveform:
-<img src="data/espweek8.png" alt="Espresso Spectogram" height="150">
+<img src="data/espweek8.3.png" alt="Espresso Spectogram" height="150">
 <img src="data/espweek8.2.png" alt="Espresso Waveform" height="150">
 
 
