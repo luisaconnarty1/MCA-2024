@@ -36,7 +36,7 @@ Descriptive data surrounding my chosen song can be found on multiple streaming p
 
 NOTATED DATA
 
-Notated formats of Data can be found on multiplke sheet music platforms online. For my project, I am purchasing an arrangement, found and purchased on Musescore.com. However, there is a vast availability of notated data online with other websites including ultimate-guitar.com, as well as videos on social platforms such as Youtube and Tiktok displaying arrangements alongside a guided tutorial on how to play a cover of the song.
+Notated formats of Data can be found on multiple sheet music platforms online. For my project, I am purchasing an arrangement, found and purchased on Musescore.com. However, there is a vast availability of notated data online with other websites including ultimate-guitar.com, as well as videos on social platforms such as Youtube and Tiktok displaying arrangements alongside a guided tutorial on how to play a cover of the song.
 
 ACOUSTIC DATA
 
