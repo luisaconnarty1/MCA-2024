@@ -317,7 +317,7 @@ Waveform Analysis demonstrates peaks along the axis depending upon amplitude and
 <img src="data/htgchromagramweek9.png" alt="HTG Chromagram" height="150">
 
 
-<i>Pink Pony Club</i>
+<i>Pink Pony Club</i> spectogram, MFCC and Chromagram
 
 <img src="data/ppcspctogramweek9.png" alt="PPC Spectogram" height="150">
 
