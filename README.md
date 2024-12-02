@@ -124,6 +124,13 @@ The MIDI pitch value of the last note in the piece. If there are multiple notes 
 The most common rhythmic value of the music, in quarter note units. So, for example, a Most Common Rhythmic Value of 0.5 would mean that eighth notes occur more frequently than any other rhythmic value. This calculation includes both pitched and unpitched notes, is calculated after rhythmic quantization, is not influenced by tempo, and is calculated without regard to the dynamics, voice or instrument of any given note.
 
 
+BELOW ARE MY ATTEMPTED PIANO ROLL AND PITCH HISTORAGRAM through jupyter notebook
+
+<img src="data/graph.jpg" alt="HTG Spectogram" height="500">
+
+<img src="data/scattergraph.jpg" alt="HTG Spectogram" height="500">
+
+
 
 
 # WEEK 5: STANDARDS IN CURATION
