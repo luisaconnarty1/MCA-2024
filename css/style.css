@@ -7,4 +7,10 @@ tei-teiHeader {
   display: none;
 }
 
+ body {
+  
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f2f2f2; 
+}
+
 
