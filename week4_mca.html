@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="css/week4mca.css">
+
+  <title>Week 4</title>
+  <meta name="generator" content="BBEdit 15.1">
+</head>
+
+
+
+<body>
+
+	<div id="header">
+  <h1>WEEK 4 TASK</h1>
+  </div>
+  
+  <!------------TASK 1 ---------------->
+  
+  
+  		<section class=task1>
+  		
+  	<div id="task1head">
+  
+  <h><b>COMPUTATIONAL ANALYTICS OF NOTATED MUSIC</b></h>
+  
+  </div>
+  
+  <div id="taskbody">
+  
+  <P>The features I analysed and their JSymbolic Analysis</p>
+  
+  <p><b>Range: 38</b><p>
+  <p>Displays the difference in semitones between the highest and lowest pitches.</p>
+  
+   <p><b>Mean Pitch: 54</b><p>
+   <p>Displays mean MIDI pitch value, averaged across all pitched notes in the piece. </p>
+   
+   
+	<p><b>N. of Common Pitch Classes: 2</b><p>
+	<p>DIsplays number of pitch classes that account individually for at least 20% of all notes. Enharmonic equivalents are grouped together for the purpose of this calculation.</p>
+	
+   <p><b>Last Pitch: 80</b><p>
+   <p>The MIDI pitch value of the last note in the piece. If there are multiple notes with simultaneous attacks at the end of the piece, then the one with the lowest pitch is selected. Set to 0 if there are no pitched notes.</p>
+   
+      
+      <p><b>Most Common Rhythmic Values: 0.25</b><p>
+      <p>The most common rhythmic value of the music, in quarter note units. So, for example, a Most Common Rhythmic Value of 0.5 would mean that eighth notes occur more frequently than any other rhythmic value. This calculation includes both pitched and unpitched notes, is calculated after rhythmic quantization, is not influenced by tempo, and is calculated without regard to the dynamics, voice or instrument of any given note.</p>
+      
+    
+    
+    <p>Using this data, I used jupyter Notebook to create the following Piano Rolls and Pitch Historagrams. Piano rolls visually represent musical sequences by showing notes as horizontal bars along a timeline, where pitch is indicated by vertical position, and duration by the length of the bars. Pitch histograms, on the other hand, display the frequency of occurrence of each pitch in a piece, offering insight into the distribution of notes and tonal characteristics.<p>
+    
+    </div>
+    
+    <div id="img">
+    
+      <img src="images/pianoroll.jpeg" alt="student1" height="600">
+      <img src="images/pitch.jpeg" alt="student1" height="600">
+      
+    </div>  
+    
+    <br></br>
+    
+    	<!-- begin navigation menu -->
+	<footer>
+	<div id="next">
+		<a href="week5_mca.html">Next: week 5</a>
+	</div>
+	
+	
+	
+	<div class="menu">
+		<a href="mcahomepage.html">Homepage</a>
+	</div>
+	</footer>
+	<!-- end navigation menu -->
+
+  
+</body>
+</html>
+
+
+</body>
+</html>
